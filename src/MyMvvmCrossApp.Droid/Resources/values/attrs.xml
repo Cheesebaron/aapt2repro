@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <declare-styleable name="BigButton">
+        <attr name="BackgroundColor" format="color" />
+        <attr name="TextColor" format="color" />
+        <attr name="FontSize" format="float" />
+    </declare-styleable>
+</resources>
